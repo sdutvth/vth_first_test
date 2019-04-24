@@ -1,2 +1,2 @@
-Git is nb
-vth is zz
+Git is a version control system.
+Git is free software.
